@@ -10,3 +10,6 @@ sudo pip install ipython[all]
 
 echo "-- Installing Jupyter Notebook --"
 sudo pip install jupyter
+
+echo "-- Installing Spyder --"
+sudo apt-get install spyder -y
